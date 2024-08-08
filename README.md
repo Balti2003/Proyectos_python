@@ -8,19 +8,19 @@ Bienvenido a mi repositorio de proyectos realizados en Python. Este repositorio 
 
 1. **Conversor de Texto a Voz**
    - Convierte artículos de texto a audio utilizando las bibliotecas `nltk`, `newspaper3k`, y `gtts`.
-   - ![Text to Speech](https://media.giphy.com/media/fxnQFqujRlj6TOJQpe/giphy.gif)
+   - ![Text to Speech](https://media.giphy.com/media/U75fE0iTdTe0XAB99g/giphy.gif)
 
 2. **Prueba de Velocidad de Escritura**
    - Prueba tu velocidad de escritura con una interfaz gráfica desarrollada en `Tkinter`.
-   - ![Typing Speed Test](https://media.giphy.com/media/l1KVbvD6CroDWsRqI/giphy.gif)
+   - ![Typing Speed Test](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 3. **Editor de Texto**
    - Un editor de texto simple con funcionalidades para abrir y guardar archivos, realizado con la biblioteca `Tkinter`.
-   - ![Text Editor](https://media.giphy.com/media/5QPo5dduwu1Qnnz7e2/giphy.gif)
+   - ![Text Editor](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 4. **Solucionador de Sudoku**
    - Resuelve sudokus automáticamente utilizando un algoritmo de retroceso (backtracking).
-   - ![Sudoku Solver](https://media.giphy.com/media/jS5FAMZ7TBAkA09MI6/giphy.gif)
+   - ![Sudoku Solver](https://media.giphy.com/media/l1J3RrKOWtSod3tgE/giphy.gif)
 
 5. **Comprobador de Conectividad de Sitios Web**
    - Comprueba la conectividad de sitios web específicos mediante `urllib` con una interfaz gráfica desarrollada con `Tkinter`.
@@ -28,11 +28,11 @@ Bienvenido a mi repositorio de proyectos realizados en Python. Este repositorio 
 
 6. **Detector de Idioma**
    - Detecta el idioma de un texto dado usando la biblioteca `langdetect` y `Tkinter` para realizar la interfaz gráfica.
-   - ![Language Detector](https://media.giphy.com/media/8puciiVvFgm8/giphy.gif)
+   - ![Language Detector](https://media.giphy.com/media/8GFm6LxR5EuqXK60v6/giphy.gif)
 
 7. **Reloj Despertador**
    - Un reloj digital que tiene la función de despertador. Este reproduce un archivo de audio cualquiera a una hora específica, realizado con `Tkinter`, `time` y `pygame`.
-   - ![Alarm Clock](https://media.giphy.com/media/l41m5oViE8qoC9wF6/giphy.gif)
+   - ![Alarm Clock](https://media.giphy.com/media/xT5LMLgGp3cWjOTxPa/giphy.gif)
 
 8. **Juego Arcade Pong**
    - Es una creación del juego Arcade Pong utilizando la biblioteca `turtle`.
@@ -41,4 +41,3 @@ Bienvenido a mi repositorio de proyectos realizados en Python. Este repositorio 
 ## Créditos
 
 Balti2003
-
