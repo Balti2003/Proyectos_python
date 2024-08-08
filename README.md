@@ -5,7 +5,7 @@
 Bienvenido a mi repositorio de proyectos realizados en Python. Este repositorio contiene una colección de proyectos que he desarrollado para aprender y experimentar con diferentes bibliotecas y funcionalidades de Python. Cada proyecto está diseñado para abordar un problema específico o implementar una característica única.
 
 ## Proyectos
-   - ![Connectivity Checker](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)               - ![Typing Speed Test](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+![Connectivity Checker](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)               ![Typing Speed Test](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
      
 1. **Conversor de Texto a Voz**
    - Convierte artículos de texto a audio utilizando las bibliotecas `nltk`, `newspaper3k`, y `gtts`.
