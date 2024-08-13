@@ -31,6 +31,9 @@ Bienvenido a mi repositorio de proyectos realizados en Python. Este repositorio 
 8. **Juego Arcade Pong**
    - Es una creación del juego Arcade Pong utilizando la biblioteca `turtle`.
 
+9. **Calculadora**
+   - Realiza las funciones de una calculadora con una interfaz grafica realizada con `tkinter`.
+     
 ## Créditos
 
 Balti2003
